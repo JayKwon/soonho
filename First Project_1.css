@@ -1,0 +1,49 @@
+body {
+  border : 1px solid gray;
+  padding : 10px;
+}
+.header__title {
+  background: #b3d4fc;
+  margin-top: 10px;
+  padding: 20px 10px;
+}
+.header__title h1 {
+  font-size : 1.2em;
+}
+.source__Informqksduation {
+  text-align : right;
+  font-size : 12.6px;
+}
+.source__Informqksduation a {
+  text-decoration:none;
+  border-bottom: 1px dotted #000;
+}
+
+.main__image {
+  text-align: center;
+}
+.main__image img {
+  border : 7px solid gray;
+  padding : 25px;
+  width : 200px;
+  height : 167px
+}
+.description__2 {
+  background : #EEE;
+  padding : 5px;
+  font-size : 14px
+}
+.description__3--title {
+  font-size: 11px;
+  margin-top: 2em;
+  border-bottom: 1px solid #333;
+}
+.description__3--mid {
+  text-align : center;
+  background : #EEE;
+  padding : 5px;
+  font-size : 14px
+}
+.description__3--mid lockquote {
+  font-weight : bold;
+}
