@@ -1,11 +1,11 @@
 body {
-  border : 1px solid gray;
   padding : 10px;
+  border : 1px solid gray;
 }
 .header__title {
-  background: #b3d4fc;
-  margin-top: 10px;
   padding: 20px 10px;
+  margin-top: 10px;
+  background: #b3d4fc;
 }
 .header__title h1 {
   font-size : 1.2em;
@@ -15,33 +15,32 @@ body {
   font-size : 12.6px;
 }
 .source__Informqksduation a {
-  text-decoration:none;
   border-bottom: 1px dotted #000;
+  text-decoration:none;
 }
-
 .main__image {
   text-align: center;
 }
 .main__image img {
+  width : 200px;
+  height : 167px;
   border : 7px solid gray;
   padding : 25px;
-  width : 200px;
-  height : 167px
 }
 .description__2 {
-  background : #EEE;
   padding : 5px;
+  background : #EEE;
   font-size : 14px
 }
 .description__3--title {
-  font-size: 11px;
-  margin-top: 2em;
   border-bottom: 1px solid #333;
+  margin-top: 2em;
+  font-size: 11px;
 }
 .description__3--mid {
   text-align : center;
-  background : #EEE;
   padding : 5px;
+  background : #EEE;
   font-size : 14px
 }
 .description__3--mid lockquote {
